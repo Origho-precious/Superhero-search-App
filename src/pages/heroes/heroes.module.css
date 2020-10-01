@@ -1,0 +1,15 @@
+.container{
+    width: 90%;
+    margin: 2rem auto;
+}
+
+.container .row{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    grid-gap: 2rem;
+}
+
+.container img{
+    display: block;
+    max-width: 100%;
+}

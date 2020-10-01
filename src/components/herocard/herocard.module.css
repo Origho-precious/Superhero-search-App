@@ -1,0 +1,8 @@
+.HeroCard{
+    max-width: 100%;
+    margin: 1rem auto;
+}
+
+.HeroCard img{
+    width: 100%;
+}
